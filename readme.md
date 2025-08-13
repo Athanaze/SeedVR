@@ -1,3 +1,8 @@
+Todo : check if inference speed on cpu (with lots of memory channel) is anywhere near reasonable when only using e.g. the last 5 frames, and only from 720p to 1080p
+
+
+
+
 <div align="center">
   <img src="assets/seedvr_logo.png" alt="SeedVR" width="400"/>
 </div>
