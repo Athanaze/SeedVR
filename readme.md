@@ -1,5 +1,13 @@
 Todo : check if inference speed on cpu (with lots of memory channel) is anywhere near reasonable when only using e.g. the last 5 frames, and only from 720p to 1080p
 
+TODO : check if inference is possible on AMD Ryzen™ AI Max+ 395 CPU and AMD Radeon™ 8060S GPU
+
+https://www.bee-link.com/products/beelink-gtr9-pro-amd-ryzen-ai-max-395?variant=47842426224882
+
+https://www.digitec.ch/de/s1/product/hp-z2-mini-g1a-amd-ryzen-ai-max-pro-395-128go-2to-ssd-zturbo-amd-radeon-8060s-w11p-333-amd-ryzen-ai--59299963
+
+https://www.digitec.ch/de/s1/product/pny-workstation-nvidia-dgx-spark-prozessorfamilie-nvidia-128-gb-1000-gb-pc-59656752
+
 
 
 
