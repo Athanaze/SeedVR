@@ -8,7 +8,7 @@ https://www.digitec.ch/de/s1/product/hp-z2-mini-g1a-amd-ryzen-ai-max-pro-395-128
 
 https://www.digitec.ch/de/s1/product/pny-workstation-nvidia-dgx-spark-prozessorfamilie-nvidia-128-gb-1000-gb-pc-59656752
 
-
+PYTHONPATH=. torchrun --nproc-per-node=2 projects/inference_seedvr2_7b.py --video_path input_folder --output_dir output_folder --seed 66 --res_h 1920 --res_w 1080
 
 
 <div align="center">
