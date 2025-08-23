@@ -4,6 +4,9 @@ download 720p video for testing (720x1280, 24fps) :
 
 wget "https://github.com/Athanaze/SeedVR/blob/9df38e212b237b271f7c99ea9557be076603ad45/original_4.mp4"
 
+new guide : 
+
+https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler?tab=readme-ov-file#%EF%B8%8F-run-as-standalone
 
 TODO : check if inference is possible on AMD Ryzen™ AI Max+ 395 CPU and AMD Radeon™ 8060S GPU
 
