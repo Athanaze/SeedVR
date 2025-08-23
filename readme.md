@@ -1,5 +1,10 @@
 Todo : check if inference speed on cpu (with lots of memory channel) is anywhere near reasonable when only using e.g. the last 5 frames, and only from 720p to 1080p
 
+download 720p video for testing (720x1280, 24fps) : 
+
+wget "https://github.com/Athanaze/SeedVR/blob/9df38e212b237b271f7c99ea9557be076603ad45/original_4.mp4"
+
+
 TODO : check if inference is possible on AMD Ryzen™ AI Max+ 395 CPU and AMD Radeon™ 8060S GPU
 
 https://www.bee-link.com/products/beelink-gtr9-pro-amd-ryzen-ai-max-395?variant=47842426224882
