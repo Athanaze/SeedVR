@@ -1,3 +1,18 @@
+```
+🔄 INFERENCE time: 333.5071804523468 seconds
+💾 Processing 1 batch_samples with memory-optimized pre-allocation
+📊 Total frames: 119, shape per frame: 2304x1296x3
+🔄 Block 1/1: batch_samples 0-0
+✅ Pre-allocation strategy completed: torch.Size([119, 2304, 1296, 3])
+✅ Upscaling completed successfully!
+📁 PNG frames saved in directory: bleu
+🕒 Total processing time: 477.95s
+⚡ Average FPS: 0.26 frames/sec
+🧹 Process 34559 terminating - VRAM will be automatically freed
+
+```
+
+
 # Process 5 seconds of 24FPS 1280x720, maximum upscaling to fit all the frames in 80GB vram (takes 336s inference time)
 
 python3 inference_cli.py --video_path original_4.mp4 --resolution 1300 --batch_size 121 --model seedvr2_ema_7b_fp16.safetensors --model_dir ./models/SEEDVR2 --output "tv5" --output_format png --preserve_vram
