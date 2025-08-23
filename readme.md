@@ -1,4 +1,4 @@
-# Process 5 seconds of 24FPS 1280x720, maximum upscaling to fit all the frames in 80GB vram
+# Process 5 seconds of 24FPS 1280x720, maximum upscaling to fit all the frames in 80GB vram (takes 336s inference time)
 
 python3 inference_cli.py --video_path original_4.mp4 --resolution 1300 --batch_size 121 --model seedvr2_ema_7b_fp16.safetensors --model_dir ./models/SEEDVR2 --output "tv5" --output_format png --preserve_vram
 
