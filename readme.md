@@ -1,3 +1,7 @@
+# Get list of videos to process : 
+
+http://arsent.ch/lc/videos.php
+
 ```
 🔄 INFERENCE time: 333.5071804523468 seconds
 💾 Processing 1 batch_samples with memory-optimized pre-allocation
